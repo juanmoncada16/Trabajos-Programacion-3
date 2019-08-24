@@ -1,0 +1,3 @@
+import chotear
+
+chotear.chotear()
